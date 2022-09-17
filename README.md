@@ -19,4 +19,6 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-(ใส่ URL ที่นี่)
+teeraphat640610641lab09.surge.sh
+
+Codesandbox
